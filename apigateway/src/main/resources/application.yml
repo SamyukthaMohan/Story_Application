@@ -1,0 +1,31 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+  
+        - id: FAVOURITES
+          uri: lb://SIGNUP-SERVER
+          predicates:
+            - Path=/favourites/**
+             
+        - id: STORY
+          uri: lb://STORY-SERVER
+          predicates:
+            - Path=/story/**
+             
+        - id: PLAYLIST
+          uri: lb://PLAYLIST-SERVER
+          predicates:
+            - Path=/playlist/**
+             
+        - id: SAMPLEONE
+          uri: lb://SAMPLEONE-SERVER
+          predicates:
+            - Path=/api/**
+             
+        - id: ADMIN
+          uri: lb://ADMIN-SERVER
+          predicates:
+            - Path=/admin/**
+            
+            
