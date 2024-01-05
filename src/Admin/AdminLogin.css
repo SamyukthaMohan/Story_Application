@@ -1,0 +1,158 @@
+.admincover
+{
+    position: absolute;
+    background-color: rgb(240, 235, 235);
+    border-radius: 16px;
+    top: 15%;
+    right:35%;
+    height: 70%;
+    width: 30%;
+}
+.vimluheader{
+    
+    position: absolute;
+    left: -2;
+    width: 101%;
+    height: 14%;
+}
+.adminemail
+{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    border-radius: 0.5%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 35%;
+    left: 37%;
+    padding: 16px 2px;
+}
+.adminpass{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    border-radius: 0.5%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 45%;
+    left: 37%;
+    padding: 16px 2px;
+}
+.adminlogin{
+    position: absolute;
+    top: 18%;
+    left: 43%;
+    font-size: 2rem;
+}
+
+.adminprilog
+  {
+      position: absolute;
+      top:60%;
+      left:37%;
+      height: 5.5%;
+      font-size: 1rem;
+      width: 26%;
+      color: rgb(0, 0, 0);
+      background-color: lightgrey;
+      border: 1px solid;
+      cursor: pointer;
+  }
+  .adminbg{
+    position: absolute;
+    background-image: white;
+    background-repeat: no-repeat;
+    opacity: .8;
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+.adminword{
+    position: absolute;
+    top: -20%;
+    left: -1%;
+    height: 163%;
+    width: 15%;
+ }
+ .adminlogo{
+    position: absolute;
+    top: 0.5%;
+    left: 14%;
+    height: 113%;
+    width: 5%;
+ }
+ .adminsmart{
+    position: absolute;
+    top: -30%;
+    left: 4%;
+    height: 193%;
+    width: 15%;
+}
+.adminpriforgot
+{
+    position: absolute;
+    top:53%;
+    left:45%;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+}
+.adminpriforgot:active {
+    /* Styles for the button when it's clicked or touched */
+    background-color: #2980b9;
+    border-color: #2980b9;
+    transform: translateY(2px); /* Optional: Add a slight button press effect */
+  }
+.adminpre{
+   
+    position: absolute;
+      top:70%;
+      left:46%;
+      height: 5%;
+      width: 7%;
+      margin: 0px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    letter-spacing: inherit;
+    color: rgb(59, 74, 203);
+    
+      cursor: pointer;
+}
+.adminpre:active{
+    
+    border-color: #2980b9;
+    transform: translateY(2px);
+}
+
+
+
+
+
+
+
+
+
+
+

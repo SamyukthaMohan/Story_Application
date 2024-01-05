@@ -1,0 +1,17 @@
+.forget{
+    position: absolute;
+    color: black;
+    margin-top: 50%;
+    font-size: 1rem;
+    font-weight: 600;
+    left: 5%;
+    /* background-color: #c7f4f4; */
+}
+/* .forin1{
+    position: absolute;
+    height: 5%;
+    width: 20%;
+} */
+.bgfor{
+    background-image: linear-gradient(to bottom,#c7f4f4,grey);
+}

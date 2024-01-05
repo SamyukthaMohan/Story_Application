@@ -1,0 +1,54 @@
+/* PodcastEpisode.css */
+
+.episode {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  transition: border 0.3s ease; /* Add a transition for a smoother hover effect */
+}
+
+.episode:hover {
+  border-color: #007bff; /* Change border color on hover (customize as needed) */
+}
+
+.episode img {
+  max-width: 100%;
+  height: auto;
+}
+
+.episode h3 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.episode p {
+  font-size: 14px;
+}
+
+.episode audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.favorite-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.favorite-button .MuiSvgIcon-root {
+  font-size: 24px;
+  color: gray;
+}
+
+.favorite-button.favorite .MuiSvgIcon-root {
+  color: red;
+}

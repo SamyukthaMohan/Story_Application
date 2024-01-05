@@ -1,0 +1,13 @@
+.wid{
+    position: absolute;
+    color: black;
+    
+}
+.mommy{
+    /* background-image: url("https://images.unsplash.com/photo-1449867727329-3294ea016353?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JleXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60"); */
+    background-image: linear-gradient( to bottom,#c7f4f4,grey);
+    height: 150%;
+    width: 100%;
+    
+
+}

@@ -1,0 +1,142 @@
+.lagnavigation{
+    background-color: rgb(181, 247, 239);
+    
+    position: fixed;
+    width:230px;
+    height: 100%;
+
+}
+.laghead{
+    position: absolute;
+    text-align: left;
+    font-size: xx-large;
+    left: 27%;
+    top: 2%;
+    color: aquamarine;
+}
+.lagdbicon{
+    position: absolute;
+    top: 3%;
+    /* background-color: black; */
+    color: grey;
+    left: 7%;
+}
+.lagdb{
+    position: absolute;
+    top: 15%;
+    animation: infinite;
+    cursor: pointer;
+    /* font-size: large; */
+    
+    font-family: 'times new roman';
+    color: rgb(151, 150, 150);
+    left: 10%;
+    height: 6%;
+    width: 90%;
+    font-size:x-large;
+    /* box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); */
+}
+.laglogicon{
+    position: absolute;
+    background-color: transparent;
+    color: grey;
+    top: 7%;
+    left: 16%;
+}
+.lag1con{
+    position: absolute;
+    background-color: transparent;
+    color: grey;
+    top: 7%;
+    left: 8%;
+}
+.lagsetcon{
+    position: absolute;
+    background-color: transparent;
+    color: grey;
+    top: 7%;
+    left: 15%;
+}
+.laglog{
+    position: absolute;
+    top: 55%;
+    animation: infinite;
+    cursor: pointer;
+    /* background-color: black; */
+    color: rgb(180, 180, 180);
+    font-family: 'times new roman';
+    font-size: x-large;
+    left: 4%;
+    height: 6%;
+    width: 90%;
+   
+}
+.main2lag{
+    position: absolute;
+    top: 25%;
+    animation: infinite;
+    cursor: pointer;
+    /* background-color: black; */
+    color: rgb(175, 175, 175);
+    font-family: 'times new roman';
+    font-size: x-large;
+    left: 8%;
+    height: 6%;
+    width: 90%;
+   
+}
+.lagset{
+    position: absolute;
+    top: 45%;
+    animation: infinite;
+    cursor: pointer;
+    /* background-color: black; */
+    color: rgb(180, 180, 180);
+    font-family: 'times new roman';
+    font-size: x-large;
+    left: 4%;
+    height: 6%;
+    width: 90%;
+   
+}
+
+.lagfedcon{
+    position: absolute;
+    background-color: transparent;
+    color: grey;
+    top: 7%;
+    left: 8%;
+}
+.lagfed{
+    position: absolute;
+    top: 35%;
+    animation: infinite;
+    cursor: pointer;
+    /* background-color: black; */
+    color: rgb(180, 180, 180);
+    font-family: 'times new roman';
+    font-size: x-large;
+    left: 9%;
+    height: 6%;
+    width: 90%;
+   
+}
+.langnoti{
+    position: absolute;
+    left: 447%;
+    bottom: -1%;
+    color: azure;
+    top: 3%;
+    height: 5%;
+    width: 4%;
+}
+.langperson{
+    position: absolute;
+    left: 480%;
+    top: 3%;
+    color: azure;
+    bottom: -1%;
+    height: 4%;
+    width: 10%;
+    
+}

@@ -1,0 +1,347 @@
+.homediv
+{
+  height: 100vh;
+}
+.homeimg1{
+    position: absolute;
+    height: 100%;
+  
+}
+/* Header.css */
+header {
+  position: fixed;
+  z-index: 1;
+    background-color:#D2E9E9;
+    color: rgb(0, 0, 0);
+    /* padding: 35px; */
+    height: 13vh;
+    width:98.7vw;
+    text-align: right;
+    /* nav-left: 20%;    */
+    /* position: fixed;
+  top: 0; */
+  }
+  
+  nav ul {
+    position: absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left; 
+  }
+  /* nav ul:active{
+   transform: translateY(2px);
+  } 
+   */
+  nav li {
+    display: none;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    /* text-decoration: underline; */
+    text-align: right;
+    color: rgb(0, 0, 0);
+   
+  }
+  /* External CSS file (e.g., styles.css) */
+.h{
+    position: absolute;
+    margin-right: 10%;
+}
+ .homedash{
+    position: absolute;
+    left:91%;
+    top:32%;
+    /* background-image: url("https://images.unsplash.com/photo-1449867727329-3294ea016353?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JleXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60"); */
+
+    display: flex;
+ }
+ .homeul {
+    position: absolute;
+    text-indent: 800px;
+    margin-top: 22px;
+ }
+ 
+ .homehead1{
+    position: absolute;
+    top: 19%;
+    left: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 2.3rem;
+    font-style: oblique;
+    margin: 0 0 2.5rem;
+    text-transform: initial;
+    color: #003336;
+    line-height: 1.5;
+    clear: both;
+    letter-spacing: .30px;;
+ }
+ .homeimg1{
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    height: 65%;
+ }
+ .homeimg2{
+    position: absolute;
+    top: 9%;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    opacity: 0.5;
+
+ }
+ .homerun {
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 40px;
+    color: grey;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    
+    
+}
+ .homeword{
+    position: absolute;
+    top: -20%;
+    left: -1%;
+    height: 163%;
+    width: 15%;
+ }
+ .homelogo{
+    position: absolute;
+    top: 0.5%;
+    left: 14%;
+    height: 113%;
+    width: 5%;
+ }
+ .homesmart{
+    position: absolute;
+    top: -30%;
+    left: 4%;
+    height: 193%;
+    width: 15%;
+ }
+ .homewhy{
+    position: absolute;
+    font-size: 2rem;
+    font-style: oblique;
+    top: 80%;
+    left: 10%;
+ }
+.homemom{
+    position: absolute;
+    top: 95%;
+    left: 15%;
+    font-size: 1rem;
+}
+.homemom1{
+    position: absolute;
+    top: 104%;
+    left: 15%;
+    font-size: 1rem;
+}
+.homeimg3{
+    position: absolute;
+    top: 95%;
+    left: 50%
+}
+.homepara{
+    position: absolute;
+    top: 175%;
+    left: 23%;
+    font-size: 1.2rem;
+    font-style: italic;
+    letter-spacing: 30%;
+}
+.homeimg4{
+    position: absolute;
+    top: 170%;
+    left: 1%;
+    height: 40%;
+    width: 99%;
+}
+.homekids{
+    position: absolute;
+    top: 200%;
+    left: 20%;
+    font-size: 1.5rem;
+    font-style: oblique;
+}
+.homepara2{
+    position: absolute;
+    top: 215%;
+    left: 30%;
+    font-size: 1rem;
+    font-weight: 350;
+    letter-spacing: .50px;
+    word-spacing: 2px;
+}
+.homeimg5{
+    position: absolute;
+    top: 245%;
+    left: 40%;
+    height: 50%;
+    width: 30%;
+}
+.homeimg6
+{
+    position: absolute;
+    top: 300%;
+    left: -1%;
+    width: 101%;
+    height: 70%;
+
+}
+.homepara3
+{
+    position: absolute;
+    top: 308%;
+    left: 12%;
+    font-size:1.5rem;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 0.1cm;
+    color: grey;
+  }
+  .homehero{
+    position: absolute;
+    top: 320%;
+    left: 70%;
+    font-size: 1.8rem;
+    font-style: oblique;
+    color: grey;
+}
+.homeimg7{
+    position: absolute;
+    top: 330%;
+    left: 10%;
+  }
+/* .homeimg11{
+  position: absolute;
+  top: 360%;
+  left: 20%;
+} */
+    .homefooter {
+        position: absolute;
+        background-image:linear-gradient(to right,rgb(255, 255, 255), rgb(161, 161, 161)) ;
+
+        color: #fff;
+        padding: 16% 50%;
+        top: 400%;
+        
+        
+      }
+      .homeimg8{
+        position: absolute;
+        top: 59%;
+        left: -1%;
+        
+      }
+      .homeimg9{
+        position: absolute;
+        top: 59%;
+        left: 42%;
+        
+      }
+      .homeimg10{
+        position: absolute;
+        top: 59%;
+        left: 51.5%;
+        
+      }
+      .homeicon{
+        position: absolute;
+        display: flex;
+        top: 15%;
+        color: #000000;
+        left: 6%;
+        /* text-indent: 300cap; */
+      }
+      .hdash1{
+        position: absolute;
+        top: -5%;
+        left: -2%;
+        height: 25%;
+        width: 20%;
+      }
+      .hdash2{
+        position: absolute;
+        left: 80%;
+        top: 15%;
+        height: 35%;
+        width: 17%;
+      }
+      .hdash3{
+        position: absolute;
+        top: -3%;
+        left: 5%;
+        height: 24%;
+        width: 20%;
+    
+      }
+      .homecopy{
+        position: absolute;
+        top: 37%;
+        left: 3%;
+        color: black;
+      }
+      .hometerms{
+        position: absolute;
+        /* display: flex; */
+        left: 36%;
+        top: 9%;
+        font-size: 1.2rem;
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+    
+      }
+      .homecon{
+        position: absolute;
+        /* display: flex; */
+        font-family: "Leamington Serial",Arial,sans-serif;
+       font-size: 0.8rem;
+        
+       top: 18%;
+        color: #003336;
+        left: 37%;
+        
+      }
+      .homecon2{
+        position: absolute;
+        /* display: flex; */
+        font-family: "Leamington Serial",Arial,sans-serif;
+       font-size: 0.8rem;
+        
+       top: 20%;
+        color: #003336;
+        left: 57%;
+        
+      }
+      .homepolicy
+      {
+        position: absolute;
+        left: 58%;
+        top: 9%;
+        font-size: 1.2rem;
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+      }
+  .homeredux{
+    position: absolute;
+    left: 400px;
+    top: 20px;
+    font-size: 1.2rem;
+
+  }
+      
+

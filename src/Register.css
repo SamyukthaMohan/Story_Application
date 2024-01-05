@@ -1,0 +1,194 @@
+.regword{
+    position: absolute;
+    top: -20%;
+    left: -1%;
+    height: 163%;
+    width: 15%;
+ }
+ .reglogo{
+    position: absolute;
+    top: 0.5%;
+    left: 14%;
+    height: 113%;
+    width: 6%;
+ }
+ .regsmart{
+    position: absolute;
+    top: -26%;
+    left: 4%;
+    height: 193%;
+    width: 15%;
+}
+.register{
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    font-size: 2.5rem;
+}
+.regcover
+{
+    position: absolute;
+    background-color: rgba(198, 189, 189, 0.2);
+    border-radius: 16px;
+    top: 15%;
+    right:35%;
+    height: 80%;
+    width: 30%;
+}
+.firstName1
+{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    border-radius: 0.5%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 35%;
+    left: 37.5%;
+    padding: 16px 2px;
+}
+.Email1
+{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    border-radius: 0.5%;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 45%;
+    left: 37.5%;
+    padding: 16px 2px; 
+}
+.ph1
+{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    border-radius: 0.5%;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 55%;
+    left: 37.5%;
+    padding: 16px 2px; 
+}
+.pwd1
+{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    border-radius: 0.5%;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 65%;
+    left: 37.5%;
+    padding: 16px 2px; 
+}
+.signup
+{
+    position: absolute;
+      top:74.5%;
+      left:37.5%;
+      height: 5.5%;
+      font-size: 0.7rem;
+      width: 26%;
+      color: rgb(0, 0, 0);
+      background-color: rgb(226, 225, 225);
+      border: 1px solid;
+      cursor: pointer;
+    
+}
+.regnew
+  {
+      position: absolute;
+      top:83%;
+      left:41%;
+      font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 0.8rem;
+    line-height: 10px;
+  }
+  .regsign
+  {
+      position: absolute;
+      top:82%;
+      left:51%;
+      height: 5%;
+      width: 7%;
+      margin: 0px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 0.9rem;
+    line-height: inherit;
+    letter-spacing: inherit;
+    color: rgb(59, 74, 203);
+    text-decoration: underline rgba(59, 74, 203, 0.4);
+      cursor: pointer;
+  }
+.samreg{
+    
+    position: absolute;
+    top:87%;
+    left:41%;
+    font-family:Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  line-height: 10px;
+
+}
+.regadd
+{
+  position: absolute;
+    top:86%;
+    left:51%;
+    height: 5%;
+    width: 7%;
+    margin: 0px;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: 0.9rem;
+  line-height: inherit;
+  letter-spacing: inherit;
+  color: rgb(59, 74, 203);
+  text-decoration: underline rgba(59, 74, 203, 0.4);
+    cursor: pointer;
+}

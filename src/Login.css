@@ -1,0 +1,263 @@
+
+#sammheader{
+    position: absolute;
+    /* background-color: transparent; */
+    left: -2;
+    width: 101%;
+    height: 14%;
+
+}
+.logword{
+    position: absolute;
+    top: -20%;
+    left: -1%;
+    height: 163%;
+    width: 15%;
+ }
+ .loglogo{
+    position: absolute;
+    top: 0.5%;
+    left: 14%;
+    height: 113%;
+    width: 5%;
+ }
+ .logsmart{
+    position: absolute;
+    top: -30%;
+    left: 4%;
+    height: 193%;
+    width: 15%;
+}
+
+.bg{
+    position: absolute;
+    /* background-image: url("https://img.freepik.com/free-vector/little-boy-reading-book-night_1308-73898.jpg?size=626&ext=jpg&ga=GA1.1.432411520.1684857937&semt=ais"); */
+    /* background-color: rgb(233, 221, 206); */
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+.login{
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    font-size: 2.5rem;
+}
+
+.cover
+{
+    position: absolute;
+    background-color: rgba(198, 189, 189, 0.2);
+    border-radius: 16px;
+    top: 15%;
+    right:35%;
+    height: 70%;
+    width: 30%;
+}
+.dappa{
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    border-radius: 0.5%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: UserName;
+    animation-duration: 10ms;
+    top: 35%;
+    left: 37%;
+    padding: 16px 2px;
+}
+.pripwd
+{
+     
+    position: absolute;
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 1px solid black;
+    border-radius: 0.5%;
+   
+    
+    box-sizing: content-box;
+    background: none;
+    height: 1%;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 25%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    top: 45%;
+    left: 37%;
+    padding: 16px 2px; 
+}
+.priforgot
+{
+    position: absolute;
+    top:53%;
+    left:45%;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+}
+.priforgot:active {
+    /* Styles for the button when it's clicked or touched */
+    background-color: #2980b9;
+    border-color: #2980b9;
+    transform: translateY(2px); /* Optional: Add a slight button press effect */
+  }
+  .prilog
+  {
+      position: absolute;
+      top:60%;
+      left:37%;
+      height: 5.5%;
+      font-size: 1rem;
+      width: 26%;
+      color: rgb(0, 0, 0);
+      background-color: lightgrey;
+      border: 1px solid;
+      cursor: pointer;
+  }
+  .prinew
+  {
+      position: absolute;
+      top:69%;
+      left:41%;
+      font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 0.8rem;
+    line-height: 10px;
+  }
+  .prisign
+  {
+      position: absolute;
+      top:68%;
+      left:52%;
+      height: 5%;
+      width: 7%;
+      margin: 0px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 0.9rem;
+    line-height: inherit;
+    letter-spacing: inherit;
+    color: rgb(59, 74, 203);
+    text-decoration: underline rgba(59, 74, 203, 0.4);
+      cursor: pointer;
+  }
+.pri{
+    
+      position: absolute;
+      top:74%;
+      left:41%;
+      font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 0.8rem;
+    line-height: 10px;
+  
+}
+.priadd
+{
+    position: absolute;
+      top:73%;
+      left:51%;
+      height: 5%;
+      width: 7%;
+      margin: 0px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 0.9rem;
+    line-height: inherit;
+    letter-spacing: inherit;
+    color: rgb(59, 74, 203);
+    text-decoration: underline rgba(59, 74, 203, 0.4);
+      cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.prilogo
+{
+    position: absolute;
+    top:20%;
+    left:38%;
+    height:19%;
+    width:15%;
+}
+.priapp
+{
+    position: absolute;
+    top:20%;
+    left:40%;
+    font-size:200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Cochin;
+}
+
+.prilogin
+{
+    position: absolute;
+    top:45%;
+    left:40%;
+    height:11%;
+    width:7%;
+}
+.pribox
+{
+    border-color: black;
+}
+
+.pripsd
+{
+    position: absolute;
+    top:44%;
+    left:37.2%;
+}
+.priph
+{
+    position: absolute;
+    top:35%;
+    left:36.5%;
+}
+/* .dappa
+{
+    position: absolute;
+    top:37%;
+    left:46%;
+    height: 2%;
+   width: 2%;
+  border-color: rgb(196, 171, 171);
+  border-radius: 4px;
+  border-style: transparent;
+} */
+
+
+
+
+
+
+#img1{
+    position: relative;
+    left: 25%;
+    top: 10%;
+    height: 80%;
+    width: 35%;
+}

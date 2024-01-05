@@ -1,0 +1,150 @@
+.updatedform
+{
+    display: flex;
+    flex-direction: column;
+}
+.update-group{
+    position: absolute;
+    background-color: rgb(201, 231, 235);
+    border: thin;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    height: 120%;
+    width: 300%;
+    left: 5%;
+}
+.formtitle
+{
+    justify-content: center;
+    position: absolute;
+    top:18%;
+    left:42%;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 1.4rem;
+
+}
+
+.lubookname
+{
+    position: absolute;
+    top:27%;
+    left:39%;
+    font-family:Georgia;
+    font-style: oblique;
+}
+.ubookname{
+    position: fixed;
+    width: 21%;
+    height: 5%;
+    left: 39%;
+}
+.luauthor
+{
+     position: absolute;
+     top:38%;
+     left:39%;
+     font-family:Georgia;
+    font-style: oblique;
+     
+}
+.uauthor{
+    position: fixed;
+    width: 21%;
+    height: 5%;
+    left: 39%;
+}
+.ludescription
+{
+     position: absolute;
+     top:49%;
+     left:39%;
+     font-family:Georgia;
+    font-style: oblique;
+}
+.uvolume{
+    position: fixed;
+    width: 21%;
+    height: 5%;
+    left: 39%;
+}
+.luimage
+{
+     position: absolute;
+     top:59%;
+     left:39%; 
+     font-family:Georgia;
+    font-style: oblique; 
+}
+.uimage{
+    position: fixed;
+    width: 21%;
+    height: 5%;
+    left: 39%;
+}
+.luaudio
+{
+     position: absolute;
+     top:69%;
+     left:39%; 
+     font-family:Georgia;
+    font-style: oblique; 
+}
+.uaudio{
+    position: fixed;
+    width: 21%;
+    height: 5%;
+    left: 39%;
+}
+.busave{
+    position: absolute;
+    top:80%;
+    left:45%;
+    width: 10%;
+    height: 5%;
+    background-image: linear-gradient(to bottom,#c7f4f4,grey);
+    font-family: cursive;
+    font-weight: bolder;
+}
+.busave:hover{
+    transform: scale(0.90);
+}
+.updateform
+{
+    position: fixed;
+    background-color: rgba(234, 231, 231, 0.769);
+    border-radius: 20px;
+    top: 15%;
+    right:35%;
+    height: 80%;
+    width: 30%;
+}
+.upheader{
+    
+    position: absolute;
+    left: -2;
+    width: 101%;
+    height: 14%;
+}
+.upword{
+    position: absolute;
+    top: -20%;
+    left: -1%;
+    height: 163%;
+    width: 15%;
+ }
+ .uplogo{
+    position: absolute;
+    top: 0.5%;
+    left: 14%;
+    height: 113%;
+    width: 7%;
+ }
+ .upsmart{
+    position: absolute;
+    top: -30%;
+    left: 4%;
+    height: 193%;
+    width: 15%;
+ }
